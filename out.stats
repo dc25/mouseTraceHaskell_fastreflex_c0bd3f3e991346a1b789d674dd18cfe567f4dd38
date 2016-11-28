@@ -10,7 +10,7 @@ ghcjs-base-0.2.0.0-LVG5gWl9dFjHHRfyhRxvZP:6817
 ghcjs-dom-0.2.3.1-6qX2PLzkmzh2kwPJafhipW:136177
 ghcjs-prim-0.1.0.0-IFhsWclGfLr1HfhUvIVylA:10712
 integer-gmp:             79637
-main:                    35895
+main:                    35896
 ref-tf-0.4.0.1-3hM7hnw7bOB1FwMAOCGwpN:2151
 reflex-0.5.0-Ltuaubz1bCa8R8AxMsLzlx:856567
 reflex-dom-0.4-BnDS1gYBEmRCSifNxmgtdQ:592593
@@ -144,7 +144,7 @@ integer-gmp
     GHC.Integer.Type:                   79637
 
 main
-    Main:                               35895
+    Main:                               35896
 
 ref-tf-0.4.0.1-3hM7hnw7bOB1FwMAOCGwpN
     Control.Monad.Ref:                  2151
@@ -193,5 +193,5 @@ unbounded-delays-0.1.0.9-2kdACByAZph7DKPj2g2mjk
 
 
 
-packed metadata: 555525
+packed metadata: 555529
 
