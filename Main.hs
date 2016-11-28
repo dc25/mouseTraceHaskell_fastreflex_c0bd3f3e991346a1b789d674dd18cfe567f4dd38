@@ -28,7 +28,7 @@ pointAttrs (x,y) =
     fromList [ ( "cx",     pack $ show x)
              , ( "cy",     pack $ show y)
              , ( "r",      "10.0")
-             , ( "style",  "fill:green")
+             , ( "style",  "fill:purple")
              ] 
 
 showPoint :: MonadWidget t m => Int -> Dynamic t Point -> m (Event t Cmd)
